@@ -1,6 +1,6 @@
 -- | A renderer that produces pretty HTML, mostly meant for debugging purposes.
 --
-module Haste.Markup.Pretty
+module Haste.Markup.Renderer.Pretty
     ( renderMarkup
     , renderHtml
     ) where
