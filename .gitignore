@@ -4,4 +4,5 @@
 *~
 *.bak
 dist
+*.jsmod
 
